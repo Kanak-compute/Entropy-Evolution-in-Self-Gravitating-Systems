@@ -1,6 +1,5 @@
 # Self-Gravitating-Systems-Entropy
-Entropy evolution and gravitational clustering in self-gravitating N-body systems
-# Entropy and the Emergence of Structure in Self-Gravitating Systems
+Python implementation of a 2D N-body simulation investigating entropy evolution, gravitational collapse, and phase-space dynamics in self-gravitating systems.# Entropy and the Emergence of Structure in Self-Gravitating Systems
 
 ## Overview
 
